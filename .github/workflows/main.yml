@@ -36,8 +36,8 @@ jobs:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./dist
           publish_branch: gh-pages
-          user_name: guzhongren
-          user_email: guzhongren@live.cn
+          user_name: davidwangcn9
+          user_email: davidwangcn9@thoughtworks.com
       # - name: UI Automation Test
       #   run: |
       #     export BUILDKITE_TOKEN=${{ secrets.BUILDKITE_TOKEN }}
